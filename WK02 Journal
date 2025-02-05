@@ -1,0 +1,25 @@
+I am working on my thesis with this matter so
+I am experimenting on teachable machine and p5 
+and also integrated it with stable diffusion 
+through proxy. 
+
+https://editor.p5js.org/ca2969/full/j7bkTYJ8A
+
+
+
+Working: 
+It detects fairly well on the object and super easy to use
+
+NOt working :
+The image classifier can only classified 
+one object at the time and it would be better 
+to have a control environment in order to train it.
+
+Also when the objects are lack of colors contrast or 
+have some what similar feature it is finicky 
+
+Interface: 
+This are the result of my thesis progress. I havet work much on the interface.
+I am doing it for the people who wanted to create their own "space".
+so the input will be physical and running the process using AI and result in GenAI 
+
